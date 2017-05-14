@@ -1,0 +1,2 @@
+# Game-Application
+This Report for Object-Oriented Programming Individual Coursework 02 required to complete a program that implements a Winning or losing gaming application. And I used all Object-Oriented concepts what (inheritance, abstractions, polymorphism and encapsulation) we studied. There will be a Use Case Diagram, Use Case Description, Class Diagram and many java concepts. This Coursework provides us skills &amp; knowledge to develop high quality coding skills &amp; coding standards.  
